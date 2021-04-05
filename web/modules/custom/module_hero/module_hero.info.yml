@@ -1,0 +1,4 @@
+name: "Module Hero"
+description: "We are going to be Drupal 8 and 9 module hero's at the end"
+type: module
+core_version_requirement: ^8.8 || ^9
