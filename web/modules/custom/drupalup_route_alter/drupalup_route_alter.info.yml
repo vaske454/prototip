@@ -1,0 +1,4 @@
+name: "Drupal Up router subscriber"
+description: "altering routes in our drupal instance"
+type: module
+core_version_requirement: ^8.8 || ^9
